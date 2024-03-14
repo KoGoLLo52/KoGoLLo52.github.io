@@ -17,7 +17,7 @@ body::before {
   z-index: -1;
   pointer-events: none;
   background-size: cover;
-  background: url("/Images/BGR.png") no-repeat center;
+  background: url("./Images/BGR.png") no-repeat center;
   animation: backgroundZoomAnimate 20s forwards;
 }
 
